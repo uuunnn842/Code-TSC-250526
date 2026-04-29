@@ -7,3 +7,9 @@
 [1] Nils Wisiol, Christoph Gräbnitz, Christopher Mühl, Benjamin Zengin, Tudor Soroceanu, Niklas Pirnay, Khalid T. Mursi, & Adomas Baliuka. pypuf: Cryptanalysis of Physically Unclonable Functions (Version v2, August 2021). Zenodo. 
 
 [2] Ljupco Kocarev and Shiguo Lian. 2011. Chaos-based Cryptography: Theory, Algorithms and Applications (1st. ed.). Springer Publishing Company, Incorporated.
+
+Run 
+`pip install ecdsa`
+`pip install pypuf`
+`pip install fuzzy-extractor`
+`python test.py`
