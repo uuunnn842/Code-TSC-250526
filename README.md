@@ -9,7 +9,11 @@
 [2] Ljupco Kocarev and Shiguo Lian. 2011. Chaos-based Cryptography: Theory, Algorithms and Applications (1st. ed.). Springer Publishing Company, Incorporated.
 
 Run 
+
 `pip install ecdsa`
+
 `pip install pypuf`
+
 `pip install fuzzy-extractor`
+
 `python test.py`
